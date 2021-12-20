@@ -11,6 +11,12 @@ window.onload = () => {
 
     //2.3
     let otherDiv = document.createElement("div")
+    for(var i = 0; i < 6; i++) {
+        let sixP = document.createElement("p")
+        otherDiv.appendChild(sixP)
+    }
+    document.body.append(otherDiv)
+
 
     //2.4
     let dinamicP = document.createElement("p")
