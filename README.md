@@ -1,6 +1,6 @@
 # upgrade-dom
 
-Iteración #1: Interacción con el DOM
+## Iteración #1: Interacción con el DOM
 
 1.1 Usa querySelector para mostrar por consola el botón con la clase .showme
 
@@ -18,7 +18,7 @@ data-function="testMe".
 
 
 
-Iteración #2: Modificando el DOM
+## Iteración #2: Modificando el DOM
 
 2.1 Inserta dinamicamente en un html un div vacio con javascript.
 
